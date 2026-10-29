@@ -1,0 +1,15 @@
+{
+  "serviceId": "glb-2527",
+  "appSourceCommit": "9aedbd534ab7f2c639dde211440b49543b6dfe59",
+  "sourceIconSha256": "5ca07a0cb4c5de46240d3b5869214382d0a6b3c451ec3dcc31a50c55c165978d",
+  "websiteLanguages": [
+    "en",
+    "ko"
+  ],
+  "actualAppAndQuestionLanguage": "en",
+  "appReleased": false,
+  "storeDownloadLinks": 0,
+  "nativeScreenshots": 0,
+  "questionBankPublished": false,
+  "sourceOrBankChanged": false
+}
